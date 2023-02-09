@@ -1,0 +1,4 @@
+---
+# defaults file for lighthouse-role
+lighhouse_location_dir: "/home/ana/lighthouse"
+lighthouse_nginx_user: "root"
